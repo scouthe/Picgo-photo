@@ -1,0 +1,2 @@
+# Picgo-photo
+photo-resource
